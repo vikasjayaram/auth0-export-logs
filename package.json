@@ -1,0 +1,18 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikasjayaram",
+  "license": "ISC",
+  "dependencies": {
+    "auth0": "^2.44.0",
+    "axios": "^1.2.0",
+    "bunyan": "^1.8.15",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4"
+  }
+}
