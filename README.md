@@ -24,7 +24,7 @@ First, copy [`.env.sample`] to `.env`
 cp .env.sample .env
 vim .env
 ```
-Pupulate the variables.
+Populate the variables.
 
 ### 3) Create a logs folder in the project directory if it doesnt exist
 
